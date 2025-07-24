@@ -1,0 +1,17 @@
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\bin\Debug\net8.0\BusinessLogic.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\bin\Debug\net8.0\BusinessLogic.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\Repositories\obj\Debug\net8.0\ref\Repositories.dll

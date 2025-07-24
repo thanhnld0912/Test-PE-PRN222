@@ -1,0 +1,15 @@
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\bin\Debug\net8.0\BusinessLogic.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\bin\Debug\net8.0\BusinessLogic.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

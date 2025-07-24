@@ -1,0 +1,14 @@
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\bin\Debug\net8.0\BusinessLogic.runtimeconfig.json
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\FPT\CN7\PRN222\TestPEInnocode\BusinessLogic\obj\Debug\net8.0\BusinessLogic.genruntimeconfig.cache
