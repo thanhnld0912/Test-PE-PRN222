@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FPT\\CN7\\TestPEInnocode\\Services\\Services.csproj": {}
+    "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\Services.csproj": {}
   },
   "projects": {
-    "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj": {
+    "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\obj\\",
+        "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\HELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,20 +91,20 @@
         }
       }
     },
-    "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\obj\\",
+        "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\HELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,8 +119,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj"
+              "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj"
               }
             }
           }
@@ -160,20 +160,20 @@
         }
       }
     },
-    "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\Repositories.csproj": {
+    "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\obj\\",
+        "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\HELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -188,8 +188,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -229,20 +229,20 @@
         }
       }
     },
-    "E:\\FPT\\CN7\\TestPEInnocode\\Services\\Services.csproj": {
+    "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\obj\\",
+        "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\HELLO\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -257,8 +257,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\Repositories.csproj": {
-                "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\Repositories.csproj"
+              "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\Repositories.csproj"
               }
             }
           }

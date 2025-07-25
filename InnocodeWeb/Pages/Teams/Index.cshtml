@@ -1,0 +1,28 @@
+﻿@page
+@model InnocodeWeb.Pages.Teams.IndexModel
+@{
+    ViewData["Title"] = "Team List";
+}
+
+
+<h1>Team List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.TeamList[0].TeamName)</th>
+            <th>@Html.DisplayNameFor(model => model.TeamList[0].Description)</th>
+            <th>@Html.DisplayNameFor(model => model.TeamList[0].Leader.Email)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.TeamList)
+        {
+            <tr>
+                <td>@item.TeamName</td>
+                <td>@item.Description</td>
+                <td>@item.Leader?.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>

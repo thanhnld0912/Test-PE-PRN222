@@ -3107,23 +3107,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\HELLO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\DataAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\obj\\",
+      "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\HELLO\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HELLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3138,8 +3138,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj"
+            "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj"
             }
           }
         }

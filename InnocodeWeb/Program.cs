@@ -1,3 +1,6 @@
+using DataAccessLayer;
+using Microsoft.EntityFrameworkCore;
+using Repositories;
 using Service;
 using Services;
 var builder = WebApplication.CreateBuilder(args);
@@ -5,10 +8,19 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+
+builder.Services.AddScoped<TeamDAO>();
+builder.Services.AddScoped<UserDAO>();
+builder.Services.AddScoped<ProjectDAO>();
 builder.Services.AddScoped<IProjectService, ProjectService>();
 builder.Services.AddScoped<ITeamService, TeamService>();
+builder.Services.AddScoped<ITeamRepository, TeamRepository>();
 builder.Services.AddScoped<IScoreService, ScoreService>();
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddDbContext<InnocodeDbContext>();
+
+builder.Services.AddDbContext<InnocodeDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
 
 builder.Services.AddSession(options =>
 {
@@ -31,7 +43,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseSession();
 app.UseAuthorization();
 
 app.MapRazorPages();

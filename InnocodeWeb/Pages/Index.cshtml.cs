@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace InnocodeWeb.Pages
@@ -14,7 +14,6 @@ namespace InnocodeWeb.Pages
 
         public void OnGet()
         {
-
         }
     }
 }

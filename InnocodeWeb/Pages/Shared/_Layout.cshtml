@@ -19,12 +19,44 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
+                        @if (Context.Session.GetString("Role") == "Student")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-success" asp-page="/Projects/Create">Create Project</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-info" asp-page="/Teams/Create">Create Team</a>
+                            </li>
+                        }
+                        else if (Context.Session.GetString("Role") == "Lecturer")
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-secondary" asp-page="/Projects/Index">View Projects</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-secondary" asp-page="/Teams/Index">View Teams</a>
+                            </li>
+                        }
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        @if (!string.IsNullOrEmpty(Context.Session.GetString("Role")))
+                        {
+                            <li class="nav-item">
+                                <span class="nav-link text-dark">Welcome, @Context.Session.GetString("Email")</span>
+                            </li>
+                            <li class="nav-item">
+                                <form method="post" asp-page="/Logout">
+                                    <button class="btn btn-link nav-link text-danger" type="submit">Logout</button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-page="/Login">Login</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>

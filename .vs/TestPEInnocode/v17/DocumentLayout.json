@@ -1,161 +1,237 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FPT\\CN7\\TestPEInnocode\\",
+  "WorkspaceRootPath": "D:\\FPT\\CN7\\Test-PE-PRN222\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\cn7\\testpeinnocode\\businesslogic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|e:\\fpt\\cn7\\testpeinnocode\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\cn7\\testpeinnocode\\businesslogic\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\cn7\\test-pe-prn222\\businesslogic\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|e:\\fpt\\cn7\\testpeinnocode\\dataaccesslayer\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|e:\\fpt\\cn7\\testpeinnocode\\innocodeweb\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|e:\\fpt\\cn7\\testpeinnocode\\services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|e:\\fpt\\cn7\\testpeinnocode\\dataaccesslayer\\innocodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\innocodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|e:\\fpt\\cn7\\testpeinnocode\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\cn7\\test-pe-prn222\\dataaccesslayer\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|e:\\fpt\\cn7\\testpeinnocode\\dataaccesslayer\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|e:\\fpt\\cn7\\testpeinnocode\\dataaccesslayer\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\cn7\\testpeinnocode\\businesslogic\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\cn7\\test-pe-prn222\\businesslogic\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\cn7\\testpeinnocode\\businesslogic\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\cn7\\test-pe-prn222\\dataaccesslayer\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\cn7\\test-pe-prn222\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\cn7\\test-pe-prn222\\businesslogic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\cn7\\test-pe-prn222\\dataaccesslayer\\innocodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\innocodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|d:\\fpt\\cn7\\test-pe-prn222\\innocodeweb\\pages\\projects\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B337DFF-56CA-4B58-A439-0A5451FB919D}|InnocodeWeb\\InnocodeWeb.csproj|solutionrelative:innocodeweb\\pages\\projects\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|d:\\fpt\\cn7\\test-pe-prn222\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937995F4-CA4A-41D9-9C10-CDFB56944664}|Services\\Services.csproj|solutionrelative:services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|d:\\fpt\\cn7\\test-pe-prn222\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD5439D-1E79-4EEE-B054-84E6B9F7D595}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fpt\\cn7\\test-pe-prn222\\dataaccesslayer\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC98818-98B0-488F-AD71-D541C4CE94FF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\cn7\\test-pe-prn222\\businesslogic\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|e:\\fpt\\cn7\\testpeinnocode\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|d:\\fpt\\cn7\\test-pe-prn222\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3E080ED2-2D96-4B75-BA5A-936D7B4F51E4}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -166,7 +242,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,7 +262,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -195,10 +271,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
@@ -226,6 +298,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
             },
             {
@@ -233,178 +309,643 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Index.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:42:24.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Login.cshtml.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Login.cshtml.cs",
-              "RelativeToolTip": "InnocodeWeb\\Login.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Index.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Index.cshtml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T17:09:57.96Z",
+              "WhenOpened": "2025-07-23T07:42:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\ProjectDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProjectDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\ProjectDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProjectDAO.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0cAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:43:54.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProjectRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:10:05.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Services\\ProjectService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:21:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Models\\Project.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\Project.cs",
+              "RelativeToolTip": "BusinessLogic\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:54:01.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Create.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Create.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Create.cshtml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:41:20.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Program.cs",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Program.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Program.cs",
-              "RelativeToolTip": "InnocodeWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T12:20:15.196Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Delete.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Delete.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Delete.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:42:24.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Program.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Program.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Program.cs",
+              "RelativeToolTip": "InnocodeWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:20:15.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Index.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T06:00:19.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Create.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Create.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Create.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvzcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:42:23.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Create.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Create.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:42:22.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Models\\Team.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\Team.cs",
+              "RelativeToolTip": "BusinessLogic\\Models\\Team.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:54:12.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeamDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\TeamDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\TeamDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\TeamDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\TeamDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:44:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Create.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Create.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Create.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwCEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T05:41:19.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T06:39:37.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "InnocodeWeb\\appsettings.json",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\appsettings.json",
+              "RelativeToolTip": "InnocodeWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T03:20:52.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Index.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T05:41:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TeamRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "Repositories\\TeamRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:09:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "Services\\TeamService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\TeamService.cs",
+              "RelativeToolTip": "Services\\TeamService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:21:11.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\ITeamService.cs",
+              "RelativeDocumentMoniker": "Services\\ITeamService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\ITeamService.cs",
+              "RelativeToolTip": "Services\\ITeamService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:20:59.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:40:18.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:38:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\UserDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:31:25.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Models\\User.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\User.cs",
+              "RelativeToolTip": "BusinessLogic\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:40:35.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Index.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Index.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:41:22.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Logout.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T06:50:20.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:50:27.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:00:22.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-25T06:39:54.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Services\\IUserServices.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\IUserServices.cs",
+              "RelativeToolTip": "Services\\IUserServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:48:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InnocodeDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\InnocodeDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\InnocodeDbContext.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\InnocodeDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\InnocodeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:40:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Login.cshtml",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Login.cshtml",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Login.cshtml",
-              "RelativeToolTip": "InnocodeWeb\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Login.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-23T07:49:52.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Index.cshtml.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Index.cshtml.cs",
-              "RelativeToolTip": "InnocodeWeb\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:42:24.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Index.cshtml",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Index.cshtml",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Index.cshtml",
-              "RelativeToolTip": "InnocodeWeb\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBkAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T07:42:24.668Z"
+              "WhenOpened": "2025-07-25T03:32:44.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:09:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:32:50.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Delete.cshtml.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Delete.cshtml.cs",
-              "RelativeToolTip": "InnocodeWeb\\Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Delete.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Delete.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:41:22.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Delete.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Delete.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T05:41:22.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Details.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Details.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:41:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Details.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Details.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Details.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T05:41:21.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Edit.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Edit.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:41:21.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Teams\\Edit.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Teams\\Edit.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Teams\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T05:41:21.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITeamRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\ITeamRepository.cs",
+              "RelativeToolTip": "Repositories\\ITeamRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:05:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Delete.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Delete.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Delete.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T07:42:24.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Delete.cshtml",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Delete.cshtml",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Delete.cshtml",
-              "RelativeToolTip": "InnocodeWeb\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T07:42:24.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Create.cshtml",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Create.cshtml",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Create.cshtml",
-              "RelativeToolTip": "InnocodeWeb\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T07:42:22.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Details.cshtml.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Details.cshtml.cs",
-              "RelativeToolTip": "InnocodeWeb\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:42:24.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Details.cshtml",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Details.cshtml",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Details.cshtml",
-              "RelativeToolTip": "InnocodeWeb\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T07:42:24.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 43,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Edit.cshtml.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Edit.cshtml.cs",
-              "RelativeToolTip": "InnocodeWeb\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Edit.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Edit.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Edit.cshtml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv0YAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T07:42:24.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 44,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Edit.cshtml",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Edit.cshtml",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Edit.cshtml",
-              "RelativeToolTip": "InnocodeWeb\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Edit.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-23T07:42:23.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "InnocodeWeb\\Create.cshtml.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\InnocodeWeb\\Create.cshtml.cs",
-              "RelativeToolTip": "InnocodeWeb\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Details.cshtml.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Details.cshtml.cs",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Details.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAywCQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:42:23.693Z"
+              "WhenOpened": "2025-07-23T07:42:24.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Details.cshtml",
+              "RelativeDocumentMoniker": "InnocodeWeb\\Pages\\Projects\\Details.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\InnocodeWeb\\Pages\\Projects\\Details.cshtml",
+              "RelativeToolTip": "InnocodeWeb\\Pages\\Projects\\Details.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:42:24.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:37:39.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
               "Title": "IProjectService.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\IProjectService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\IProjectService.cs",
               "RelativeDocumentMoniker": "Services\\IProjectService.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\IProjectService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\IProjectService.cs",
               "RelativeToolTip": "Services\\IProjectService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,23 +953,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\ProjectService.cs",
-              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\ProjectService.cs",
-              "RelativeToolTip": "Services\\ProjectService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:21:37.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 50,
               "Title": "IScoreService.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\IScoreService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\IScoreService.cs",
               "RelativeDocumentMoniker": "Services\\IScoreService.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\IScoreService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\IScoreService.cs",
               "RelativeToolTip": "Services\\IScoreService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +965,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 49,
               "Title": "ScoreService.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\ScoreService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\ScoreService.cs",
               "RelativeDocumentMoniker": "Services\\ScoreService.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\ScoreService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Services\\ScoreService.cs",
               "RelativeToolTip": "Services\\ScoreService.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,111 +977,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:40:18.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TeamService.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\TeamService.cs",
-              "RelativeDocumentMoniker": "Services\\TeamService.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\TeamService.cs",
-              "RelativeToolTip": "Services\\TeamService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwBwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:21:11.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ITeamService.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\ITeamService.cs",
-              "RelativeDocumentMoniker": "Services\\ITeamService.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\ITeamService.cs",
-              "RelativeToolTip": "Services\\ITeamService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:20:59.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "TeamRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\TeamRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\TeamRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\TeamRepository.cs",
-              "RelativeToolTip": "Repositories\\TeamRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:09:38.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:38:04.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "InnocodeDbContext.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\InnocodeDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\InnocodeDbContext.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\InnocodeDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\InnocodeDbContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAhwCcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:40:49.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserServices.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\IUserServices.cs",
-              "RelativeDocumentMoniker": "Services\\IUserServices.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Services\\IUserServices.cs",
-              "RelativeToolTip": "Services\\IUserServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:48:35.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:37:39.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 52,
               "Title": "IScoreRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\IScoreRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\IScoreRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IScoreRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\IScoreRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\IScoreRepository.cs",
               "RelativeToolTip": "Repositories\\IScoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -560,23 +989,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ITeamRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\ITeamRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ITeamRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\ITeamRepository.cs",
-              "RelativeToolTip": "Repositories\\ITeamRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:05:46.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 53,
               "Title": "ScoreRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\ScoreRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\ScoreRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ScoreRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\ScoreRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\ScoreRepository.cs",
               "RelativeToolTip": "Repositories\\ScoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -584,72 +1001,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\ProjectRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProjectRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\ProjectRepository.cs",
-              "RelativeToolTip": "Repositories\\ProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:10:05.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 54,
               "Title": "IProjectRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\IProjectRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IProjectRepository.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\Repositories\\IProjectRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\Repositories\\IProjectRepository.cs",
               "RelativeToolTip": "Repositories\\IProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:06:02.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\UserDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\UserDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:31:25.897Z",
+              "WhenOpened": "2025-07-23T07:06:02.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TeamDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\TeamDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\TeamDAO.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\TeamDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\TeamDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:44:08.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProjectDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\ProjectDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ProjectDAO.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\ProjectDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\ProjectDAO.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwEwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:43:54.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 55,
               "Title": "ScoreDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\ScoreDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\ScoreDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ScoreDAO.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\DataAccessLayer\\ScoreDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\DataAccessLayer\\ScoreDAO.cs",
               "RelativeToolTip": "DataAccessLayer\\ScoreDAO.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAgwEYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -657,36 +1026,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Models\\User.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\User.cs",
-              "RelativeToolTip": "BusinessLogic\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:40:35.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Team.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Models\\Team.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\Team.cs",
-              "RelativeToolTip": "BusinessLogic\\Models\\Team.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:54:12.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 56,
               "Title": "Score.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\Score.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\Score.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Models\\Score.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\Score.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\Models\\Score.cs",
               "RelativeToolTip": "BusinessLogic\\Models\\Score.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA6wBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -694,23 +1038,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Project.cs",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Models\\Project.cs",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\Models\\Project.cs",
-              "RelativeToolTip": "BusinessLogic\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:54:01.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 57,
               "Title": "BusinessLogic.csproj",
-              "DocumentMoniker": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
-              "ToolTip": "E:\\FPT\\CN7\\TestPEInnocode\\BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "D:\\FPT\\CN7\\Test-PE-PRN222\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -729,6 +1061,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

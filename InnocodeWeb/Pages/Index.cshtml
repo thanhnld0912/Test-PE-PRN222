@@ -2,9 +2,44 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+    var role = HttpContext.Session.GetString("Role");
+    var email = HttpContext.Session.GetString("Email");
+}
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    @if (string.IsNullOrEmpty(role))
+    {
+        <p>Welcome guest!</p>
+        <a class="btn btn-primary" asp-page="/Login">Login</a>
+    }
+    else if (role == "Student" || role == "Lecturer")
+    {
+        <p>Welcome @role.ToLower(): @email</p>
+    }
 </div>

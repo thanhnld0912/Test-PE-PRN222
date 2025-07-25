@@ -9,7 +9,7 @@ public partial class Project
 
     public int TeamId { get; set; }
 
-    public string Title { get; set; } = null!;
+    public string Title { get; set; } = string.Empty;
 
     public string? Summary { get; set; }
 
